@@ -1,6 +1,6 @@
 # Jammming
 
-[Jammming] (https://song-life.surge.sh) is a responsive react web app that uses the Spotify API to:
+[Jammming](https://song-life.surge.sh) is a responsive react web app that uses the Spotify API to:
 - display the user's Spotify playlists
 - search for music tracks
 - create a playlist
